@@ -20,10 +20,10 @@ namespace DROPBOX1
 {
     public partial class Form1 : Form
     {
-        static string token = "mvOavPlvyJYAAAAAAAAAaQVISBX6oQV8rew1l9U32TViZSqLzuboFM08f8M0Zij_";
+        static string token = "";
         static string data;
-        static string diretorioPadrao = @"c:\\khamalleon\NovasDlls";
-        static string diretorioExtrair = @"c:\\khamalleon\";
+        static string diretorioPadrao = @"c:\\NovasDlls";
+        static string diretorioExtrair = @"c:\\";
         static string statusLog = "";
         static string file = "dlls.zip";
         static string arquivoParaUpload = "";
